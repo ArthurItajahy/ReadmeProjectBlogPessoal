@@ -16,7 +16,7 @@
 
 # Apresentacao
 
- ### Motivacão:
+ ### Motivacao:
  
  ##### "Há ideia era juntar um grupo de pessoas extraordinárias e ver se eles trabalhando em equipe poderiam ser algo mais." - Nick Fury.
  
@@ -25,7 +25,7 @@
  
  ### Tecnologias:
  
- Essas  tecnologias foram escolhidas pela segurança e o vasto conteúdo documentado na internet para que pudesse me dar suporte ao longo do processo. São tecnologias extremamente conhecidas por isso me senti complemente confortável em usa-las. E são tecnologias amplamente usadas pelo mercado dessa forma o projeto estaria mais alinhado com o ambiente profissional.
+ Essas  tecnologias foram escolhidas pela segurança e o vasto conteúdo documentado na internet para que pudesse me dar suporte ao longo do processo, por serem tecnologias extremamente conhecidas me senti complemente confortável em usa-las. Essas tecnologias são amplamente usadas pelo mercado dessa forma o projeto estaria mais alinhado com o ambiente profissional.
         
 <table>
     <tr> 
