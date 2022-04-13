@@ -127,7 +127,56 @@ usuário: root
 
 senha: root
 
+# Front-End
+
+No front-end também usamos o padrão MVC(Model,View e Controller), primeiro tive que dividir o que seria feito pois tinha que construir muitas coisas, por isso decidi dividir o projeto em duas grandes partes. 
+
+Dependências usadas: 
+
+## instalação do material ui
 
 
+
+yarn add @material-ui/core@4.12.3
+
+yarn add @material-ui/icons@4.11.2
+
+yarn add @mui/icons-material@5.0.5
+ 
+yarn add @material-ui/lab@4.0.0-alpha.60
+
+yarn add @emotion/react@11.5.0
+
+yarn add @emotion/styled@11.3.0
+
+yarn add @mui/material@5.0.6
+
+
+## instalação do react-router-dom
+
+yarn add react-router-dom@5.3.0
+
+yarn add @types/react-router-dom@5.1.8
+ 
+## instalação do axios 
+
+yarn add axios@0.21.4
+
+## instalação do useLocalStorage 
+
+npm i react-use-localstorage@3.5.3
+
+## instalação do redux
+
+yarn add @types/redux@3.6.0 react-redux@7.2.5
+
+## instalação do react-toastify
+
+npm install --save react-toastify@8.0.3
+
+
+### Parte-1-Criando-Tela-de-Login-e-Cadastro 
+
+Bom, o que você vai ver abaixo já o produto final sujeito a mudanças, o login foi construído para pegar os dados de email e senha, com esses dados, o login faz a requisição para o banco de dados  e compara os dados para ver se existe algum usuário compatível, ele espera o retorno do banco, caso o usuário exista ele manda o usuário para o Home com o token gerado. Se o usuário não existir ele retorna um erro.
 
 
