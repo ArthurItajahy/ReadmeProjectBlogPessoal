@@ -6,8 +6,8 @@
        * [Motivação](#Motivacao)
        * [Tecnologia](#Tecnologias)
    * [Back-End](#Back-End)
-       * [Parte 1 - Escolhendo Entidades](#Parte--1-Escolhendo-Entidades)
-       * [ Parte 2 - Aplicando Spring boot](#Parte-2-Aplicando-Spring)
+       * [Parte 1 - Escolhendo Entidades](#Parte-1-Escolhendo-Entidades)
+       * [ Parte 2 - Aplicando Spring boot](#Parte-2-Aplicando-No-Spring-Boot)
        * [ Parte 3 - Teste no insominia](#Parte-3-Teste-No-Insominia)
    * [Front-End](#Front-End)
         * [Parte 1 - Criando Tela de Login e Cadastro](#Parte-1-Criando-Tela-de-Login-e-Cadastro)
@@ -51,8 +51,25 @@
  
  # BACK-END:
  
- ### Parte--1-Escolhendo-Entidades:
+ ### Parte-1-Escolhendo-Entidades:
 
 Essa parte foi tranquila pois como queria começar um projeto que pudesse crescer depois, optei por pelo simples e usar apenas três entidades. Postagens, Temas e Usuário. Tendo a oportunidade de expandir as coisas depois, fiz essa divisão usando MySql para que ficasse mais visual a interação das entidades.
 
 ![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/entidade.png) 
+
+### Parte-2-Aplicando-No-Spring-Boot:
+
+Primeiro tivemos que usar padrões de projetos como MVC(Model, View e Controller), mas fazendo algumas adaptações para o nosso projeto pois ele iria ter outras camadas de complemento que no caso seriam Model, Repository, Controller,Security e Service.
+
+Model => Ira criar os modelos das nossa entidades definidas assim ou seja também criando as ligações que as tabelas iram ter.
+Repository => Será os filtros que iremos requisitar do banco de dados, para podermos visualizar os dados que precisamos.
+Controller => Aqui será onde iremos reunir os Comandos HTTP (GET, POST, DELETE e PUT), o que ira nos possibilitar em fazer o famoso CRUD.
+Service => Onde iremos colocar a nossa regra de negocio para que possamos permitir ou negar os dados que serão mandados para o banco de dados.
+Security => Aqui é a segurança da Aplicação, onde iremos criptografar os dados sensíveis e proteger nossa aplicação usando JWT.
+
+Após a separação das camadas criamos as Models, Repositorios, Services, Controller  e depois finalizamos colocando a Security. Depois disso fizemos teste no insominia.
+
+### Parte-3-Teste-No-Insominia:
+
+
+
