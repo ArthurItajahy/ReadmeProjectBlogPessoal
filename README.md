@@ -18,6 +18,8 @@
 
  ### Motivacao
  
+ "Há ideia era juntar um grupo de pessoas extraordinárias e ver se eles trabalhando em equipe poderiam ser algo mais." - Nick Fury.
+ 
  Esse projeto foi construído com o intuito de mostrar o meu melhor, por isso coloquei tudo que eu  sabia até o momento para cria-lo. 
  Escolhi o nome gênio indomável pois queria criar uma comunidade de pessoas Gênias que estivessem prontas para ajudar o mundo por puro altruísmo.  E meu blog poderia ser capaz de dar esse pontapé inicial para que eu pudesse ir expandindo. 
  
@@ -38,7 +40,7 @@
         </tr>
 </table>  
 
-#### SITES PRA DEPLOY DO PROJETO
+#### Sites para deploy do projeto.
 
  <table>
      <tr>
