@@ -78,14 +78,23 @@ Após a separação das camadas instalamos as dependências necessárias.
 #### Dependências usadas:
 
 => SpringBoot Starter data JPA
+
 => Spring Boot Starter-Validation
+
 => SpringBoot Starter Web
+
 => SpringBoot Starter Security
+
 => Commons Codec
+
 => MySql-ConnectorJava
+
 => Spring Boot DevTools
+
 => postgreSql
+
 => SpringBootStarterTest JUnit 
+
 => H2 Database.
 
 
