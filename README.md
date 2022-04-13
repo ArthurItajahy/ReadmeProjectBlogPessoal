@@ -75,10 +75,22 @@ Primeiro tivemos que usar padrões de projetos como MVC(Model, View e Controller
 
 Após a separação das camadas instalamos as dependências necessárias.
 
-Dependências usadas: SpringBoot Starter data JPA , Spring Boot Starter-Validation, SpringBoot Starter Web, SpringBoot Starter Security, Commons Codec, MySql-ConnectorJava, Spring Boot DevTools, postgreSql, SpringBootStarterTest JUnit e H2 Database.
+#### Dependências usadas:
+
+> SpringBoot Starter data JPA
+> Spring Boot Starter-Validation
+> SpringBoot Starter Web
+> SpringBoot Starter Security
+> Commons Codec
+> MySql-ConnectorJava
+> Spring Boot DevTools
+> postgreSql
+> SpringBootStarterTest JUnit 
+> H2 Database.
 
 
 Com as dependências instaladas criamos as Models, Repositorios, Services, Controller  e finalizamos colocando a Security.  Ao completar o código fiz alguns testes unitários usando JUnit e H2 database.
+
 ![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/TesteJUNIT.png) 
 
 
