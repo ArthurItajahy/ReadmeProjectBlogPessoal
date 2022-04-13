@@ -62,9 +62,13 @@ Essa parte foi tranquila pois como queria começar um projeto que pudesse cresce
 Primeiro tivemos que usar padrões de projetos como MVC(Model, View e Controller), mas fazendo algumas adaptações para o nosso projeto pois ele iria ter outras camadas de complemento que no caso seriam Model, Repository, Controller,Security e Service.
 
 Model => Ira criar os modelos das nossa entidades definidas assim ou seja também criando as ligações que as tabelas iram ter.
+
 Repository => Será os filtros que iremos requisitar do banco de dados, para podermos visualizar os dados que precisamos.
+
 Controller => Aqui será onde iremos reunir os Comandos HTTP (GET, POST, DELETE e PUT), o que ira nos possibilitar em fazer o famoso CRUD.
+
 Service => Onde iremos colocar a nossa regra de negocio para que possamos permitir ou negar os dados que serão mandados para o banco de dados.
+
 Security => Aqui é a segurança da Aplicação, onde iremos criptografar os dados sensíveis e proteger nossa aplicação usando JWT.
 
 Após a separação das camadas criamos as Models, Repositorios, Services, Controller  e depois finalizamos colocando a Security. Depois disso fizemos teste no insominia.
