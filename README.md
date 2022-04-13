@@ -16,14 +16,14 @@
 
 # Apresentacao
 
- ### Motivacao
+ ### Motivacão:
  
- "Há ideia era juntar um grupo de pessoas extraordinárias e ver se eles trabalhando em equipe poderiam ser algo mais." - Nick Fury.
+ ##### "Há ideia era juntar um grupo de pessoas extraordinárias e ver se eles trabalhando em equipe poderiam ser algo mais." - Nick Fury.
  
  Esse projeto foi construído com o intuito de mostrar o meu melhor, por isso coloquei tudo que eu  sabia até o momento para cria-lo. 
  Escolhi o nome gênio indomável pois queria criar uma comunidade de pessoas Gênias que estivessem prontas para ajudar o mundo por puro altruísmo.  E meu blog poderia ser capaz de dar esse pontapé inicial para que eu pudesse ir expandindo. 
  
- ### Tecnologias
+ ### Tecnologias:
  
  Essas  tecnologias foram escolhidas pela segurança e o vasto conteúdo documentado na internet para que pudesse me dar suporte ao longo do processo. São tecnologias extremamente conhecidas por isso me senti complemente confortável em usa-las. E são tecnologias amplamente usadas pelo mercado dessa forma o projeto estaria mais alinhado com o ambiente profissional.
         
@@ -40,7 +40,7 @@
         </tr>
 </table>  
 
-#### Sites para deploy do projeto.
+#### Sites para deploy do projeto:
 
  <table>
      <tr>
