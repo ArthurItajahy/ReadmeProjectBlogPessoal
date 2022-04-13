@@ -55,9 +55,11 @@
 
 Essa parte foi tranquila pois como queria começar um projeto que pudesse crescer depois, optei por pelo simples e usar apenas três entidades. Postagens, Temas e Usuário. Tendo a oportunidade de expandir as coisas depois, fiz essa divisão usando MySql para que ficasse mais visual a interação das entidades.
 
+
 ![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/entidade.png) 
 
 ### Parte-2-Aplicando-No-Spring-Boot:
+
 
 Primeiro tivemos que usar padrões de projetos como MVC(Model, View e Controller), mas fazendo algumas adaptações para o nosso projeto pois ele iria ter outras camadas de complemento que no caso seriam Model, Repository, Controller,Security e Service.
 
@@ -71,9 +73,20 @@ Primeiro tivemos que usar padrões de projetos como MVC(Model, View e Controller
 
 ##### Security => Aqui é a segurança da Aplicação, onde iremos criptografar os dados sensíveis e proteger nossa aplicação usando JWT.
 
-Após a separação das camadas criamos as Models, Repositorios, Services, Controller  e depois finalizamos colocando a Security. Depois disso fizemos teste no insominia.
+Após a separação das camadas instalamos as dependências necessárias.
+
+Dependências usadas: SpringBoot Starter data JPA , Spring Boot Starter-Validation, SpringBoot Starter Web, SpringBoot Starter Security, Commons Codec, MySql-ConnectorJava, Spring Boot DevTools, postgreSql, SpringBootStarterTest JUnit e H2 Database.
+
+
+Com as dependências instaladas criamos as Models, Repositorios, Services, Controller  e finalizamos colocando a Security.  Ao completar o código fiz alguns testes unitários usando JUnit e H2 database.
+![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/TesteJUNIT.png) 
+
+
+### Link do código:  https://github.com/ArthurItajahy/Blog
 
 ### Parte-3-Teste-No-Insominia:
+
+
 
 
 
