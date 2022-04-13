@@ -23,11 +23,16 @@
  
  ### Tecnologias
  
- Escolhi essas tecnologisa pela segurança e o vasto conteúdo documentado na internet para que pudesse me dar suporte ao longo do processo. São tecnologias extremamente conhecidas por isso me senti complemente confortável em usa-las. E são tecnologias usadas pelo mercado dessa forma o projeto estaria mais alinhado com o mercado.
+ Essas  tecnologias foram escolhidas pela segurança e o vasto conteúdo documentado na internet para que pudesse me dar suporte ao longo do processo. São tecnologias extremamente conhecidas por isso me senti complemente confortável em usa-las. E são tecnologias amplamente usadas pelo mercado dessa forma o projeto estaria mais alinhado com o ambiente profissional.
  
       
+      
+      
+      
 <table>
+
     <tr>
+    
         <td><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
         <td><img alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/></td>
         <td><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/></td>
@@ -38,6 +43,7 @@
         <td><img alt="TYPESCRIPT" src="https://img.shields.io/badge/-TS-blue"/></td>
 
     </tr>
+    
 </table>
   
  
