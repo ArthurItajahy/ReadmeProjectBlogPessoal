@@ -111,7 +111,9 @@ Com as dependências instaladas criamos as Models, Repositorios, Services, Contr
 
 ![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/Cadastro.png) 
 
+#### Teste de Login: Quando o Login é efetuado, observe que o token de acesso é gerado para o usuário, mas aqui usamos model virtual onde esse token não guardado no banco de dados e sim colocando em espelho do modelo do usuário. Assim fazendo o token existir apenas quando o usuário está logado.
 
+![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/Login.png) 
 
 
 
