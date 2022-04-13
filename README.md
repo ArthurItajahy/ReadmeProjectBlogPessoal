@@ -1,5 +1,5 @@
-# GÊNIO INDOMÁVeL
-![GitHub](https://img.shields.io/github/license/ArthurItajahy/Blog_pessoal_FrontEnd)
+# GÊNIO INDOMÁVEL
+![GitHub](https://img.shields.io/github/license/ArthurItajahy/ReadmeProjectBlogPessoal)
 # Menu
 <!--ts-->
    * [Apresentação do Projeto](#Apresentacao)
@@ -48,3 +48,11 @@
         <td><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></td> 
      </tr>
  </table>
+ 
+ # BACK-END:
+ 
+ ### Parte--1-Escolhendo-Entidades:
+
+Essa parte foi tranquila pois como queria começar um projeto que pudesse crescer depois, optei por pelo simples e usar apenas três entidades. Postagens, Temas e Usuário. Tendo a oportunidade de expandir as coisas depois, fiz essa divisão usando MySql para que ficasse mais visual a interação das entidades.
+
+![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/entidade.png) 
