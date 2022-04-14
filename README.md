@@ -118,15 +118,18 @@ Com as dependências instaladas criamos as Models, Repositorios, Services, Contr
 
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 
- Link:https://genioindomavel.herokuapp.com
+#### Deploy na Nuvem:https://genioindomavel.herokuapp.com
 
-Para fazer o Login: 
+=====L O G I N=====
 
-usuário: root
+    usuário: root
 
-senha: root
+    senha: root
 
-### Codigo do projeto back-end:  https://github.com/ArthurItajahy/Blog
+===================
+
+
+#### Codigo do projeto back-end:  https://github.com/ArthurItajahy/Blog
 
 
 # Front-End
@@ -205,7 +208,7 @@ Bom, o que você vai ver abaixo já é o produto final sujeito a mudanças, o lo
 
 #### Crie o seu perfil também e faça sua postagem acessando o link a baixo.
 
-### link: https://genioindomavel.netlify.app
+#### Deploy na nuvem: https://genioindomavel.netlify.app
 
 
 
