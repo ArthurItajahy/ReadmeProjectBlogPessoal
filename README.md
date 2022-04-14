@@ -12,6 +12,7 @@
    * [Front-End](#Front-End)
         * [Parte 1 - Criando Tela de Login e Cadastro](#Parte-1-Criando-Tela-de-Login-e-Cadastro)
         * [Parte 2 - Criando home e Perfil](#Parte-2-Criando-Home-e-Perfil)
+   * [Atualizações Futuras](#Atualizacoes-Futuras)
      <!--te-->
 
 # Apresentacao
@@ -182,13 +183,36 @@ Bom, o que você vai ver abaixo já é o produto final sujeito a mudanças, o lo
 ![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/telalogin.gif)
 
 
-#### Essa é a pagina de cadastro, dessa forma você pode observar que você pode colocar link da foto do seu usuario.(Recomendo que coloque pois a função de atualização ainda não foi implementada). Insira seu nome, email e senha. Pronto seu cadastro de está feito.
+#### Essa é a pagina de cadastro, dessa forma você pode observar que você pode colocar link da foto do seu usuario.. Insira seu nome, email e senha. Pronto seu cadastro de está feito.
 
 ![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/telacadastro.gif)
 
 
 ### Parte-2-Criando-Home-e-Perfil
 
-#### Mostrando o home onde você podera criar a seus temas e suas postagens que estaram diretamente ligadas a seu usuario. No futuro poderemos implementar para que o usuario não possa apagar sua postagem.
+#### Mostrando o home onde você podera criar a seus temas e suas postagens que estaram diretamente ligadas a seu usuario. (No futuro poderemos implementar para que outros usuario não possa apagar sua postagem)
 
 ![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/telahome.gif)
+
+#### O perfil do usuario onde ira estar sua foto. ele pode ter acesso a todas as postagens já feitas.
+
+![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/telaperfil.gif)
+
+
+#### O Deploy foi efetuado no Netlify.
+<img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+
+
+#### Criei o seu perfil também e faça sua postagem acessando o link a baixo.
+
+### link: https://genioindomavel.netlify.app
+
+# Atualizacoes-Futuras
+
+#### => Funcionalidade para Atualizar o Perfil.
+
+#### => Funcionalidade para apenas o usuario que postou poder apagar.
+
+#### => Curtidas para as postagens.
+
+#### => Fotos para as postagens.
