@@ -216,3 +216,22 @@ Bom, o que você vai ver abaixo já é o produto final sujeito a mudanças, o lo
 #### => Curtidas para as postagens.
 
 #### => Fotos para as postagens.
+
+
+### Agradecimentos.
+
+Bom, esse projeto não seria possivel sem os ensinamentos adquiridos no bootcamp da Generation Brasil. O Bootcamp foi focado em capacipatar as pessoas para se tornarem Desenvolvedores Java Full Stack Junior. Ensinando todo o caminho nescessario para que isso se torna-se realidade.
+
+Quero agradecer a o instrutor Luis Guerreiro que me ensinou logica da programação desdo Portugol e fazendo uma transição desses conhecimentos para Java, depois introduzindo o conceito de OOP. Após esse conhecimento adquirido fomos dividos em grupos para criar um projeto em equipe para consolidar os conhecimentos na linguagem.
+
+Após isso o instrutor Rafael Queiroz, ensinou sobre bancos relacionais usando a ferramenta MySQL. Depois fui apresentado por ele ao framework Spring boot para facilitar na criação de projetos com java. Ensinou sobre Padrões de projeto em camadas. Com  conclusão criamos dessa parte subimos os projetos no Heroku.
+
+No final o instrutor Yuri apresentou o Front-End, passando pelo basico HTML, CSS e Javascript. Com os conhecimentos consolidados fomos guiados a facilitar nosso desenvolvimento e começamos a usar uma biblioteca chamada React. onde os conhecimentos foram usando para construir o Front-End desse Blog. Então subi o resultado final no Netlify.
+
+Jacque Hernandes que teve o papel de ser nossa instrutora de Jornada, nos auxiliou muito quando estavamos perdidos e ensinou para gente como devemos nos comportar em ambiente profissional. Acredito que nenhum outro bootcamp deu tanta importância para a forma que convivemos em sociedade.
+
+Agradeço a Turma 44 por serem tão incriveis. E Principalmente ao meu grupo do Projeto Integrador(PI), Aline, Amanda, Amaury, Erick, Felipe e Larissa. Vocês me ensinaram como liderar um grupo, saber lidar com pessoas de diferentes niveis de conhecimento, pensamentos e conduzir tudo melhor forma possivel.
+
+E o meu ultimo agradecimento vai para Generation como um todo o trabalho de vocês me tornou um DEV. Mais acima disso me tornou um ser humano melhor.
+
+
