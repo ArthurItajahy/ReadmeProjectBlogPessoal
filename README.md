@@ -179,4 +179,9 @@ npm install --save react-toastify@8.0.3
 
 Bom, o que você vai ver abaixo já é o produto final sujeito a mudanças, o login foi construído para pegar os dados de email e senha com esses dados, o login faz a requisição para o banco de dados  e compara os dados para ver se existe algum usuário compatível, ele espera o retorno do banco de dados, caso o usuário exista ele manda o usuário para o Home com o token gerado. Se o usuário não existir ele retorna um Alerta.
 
-![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/telalogin.gif) 
+![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/telalogin.gif)
+
+
+#### Essa é a pagina de cadastro, dessa forma você pode observar que você pode colocar link da foto do seu usuario.(Recomendo que coloque pois a função de atualização ainda não foi implementada). Insira seu nome, email e senha. Pronto seu cadastro de está feito.
+
+![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/telacadastro.gif)
