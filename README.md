@@ -104,9 +104,6 @@ Com as dependências instaladas criamos as Models, Repositorios, Services, Contr
 
 ![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/TesteJUNIT.png) 
 
-
-### Link do código:  https://github.com/ArthurItajahy/Blog
-
 ### Parte-3-Teste-No-Insominia:
 
 #### Teste de cadastro: Aqui mostramos o cadastro funcionando, após o usuário ser cadastro sua senha é criptografada e envia para o banco de dados.
@@ -128,6 +125,9 @@ Para fazer o Login:
 usuário: root
 
 senha: root
+
+### Codigo do projeto back-end:  https://github.com/ArthurItajahy/Blog
+
 
 # Front-End
 
@@ -203,13 +203,14 @@ Bom, o que você vai ver abaixo já é o produto final sujeito a mudanças, o lo
 #### O Deploy foi efetuado no Netlify.
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-#### Codigo do projeto Link: https://github.com/ArthurItajahy/Blog_pessoal_FrontEnd
-
-
-
 #### Crie o seu perfil também e faça sua postagem acessando o link a baixo.
 
 ### link: https://genioindomavel.netlify.app
+
+
+
+#### Codigo do projeto front-end: https://github.com/ArthurItajahy/Blog_pessoal_FrontEnd
+
 
 # Atualizacoes-Futuras
 
