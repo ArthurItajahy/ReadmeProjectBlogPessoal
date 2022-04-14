@@ -203,8 +203,11 @@ Bom, o que você vai ver abaixo já é o produto final sujeito a mudanças, o lo
 #### O Deploy foi efetuado no Netlify.
 <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
+#### Codigo do projeto Link: https://github.com/ArthurItajahy/Blog_pessoal_FrontEnd
 
-#### Criei o seu perfil também e faça sua postagem acessando o link a baixo.
+
+
+#### Crie o seu perfil também e faça sua postagem acessando o link a baixo.
 
 ### link: https://genioindomavel.netlify.app
 
