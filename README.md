@@ -185,3 +185,10 @@ Bom, o que você vai ver abaixo já é o produto final sujeito a mudanças, o lo
 #### Essa é a pagina de cadastro, dessa forma você pode observar que você pode colocar link da foto do seu usuario.(Recomendo que coloque pois a função de atualização ainda não foi implementada). Insira seu nome, email e senha. Pronto seu cadastro de está feito.
 
 ![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/telacadastro.gif)
+
+
+### Parte-2-Criando-Home-e-Perfil
+
+#### Mostrando o home onde você podera criar a seus temas e suas postagens que estaram diretamente ligadas a seu usuario. No futuro poderemos implementar para que o usuario não possa apagar sua postagem.
+
+![Web 1](https://github.com/ArthurItajahy/ReadmeProjectBlogPessoal/blob/main/assets/forReadme/telahome.gif)
