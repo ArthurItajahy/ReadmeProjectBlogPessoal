@@ -225,6 +225,10 @@ Bom, o que você vai ver abaixo já é o produto final sujeito a mudanças, o lo
 
 #### => Fotos para as postagens.
 
+#### => Reconstruir o back-end em microserviço para ter mais escalabilidade e segurança.
+
+#### => E reescrever em Kotlin para o mobile.
+
 
 ## Agradecimentos.
 
